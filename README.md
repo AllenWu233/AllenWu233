@@ -1,5 +1,5 @@
 - Archlinuxer, Python lover.
-- Blog：[blog.allenwu233.com](blog.allenwu233.com)
+- Blog：[https://blog.allenwu233.com](https://blog.allenwu233.com)
 - 📫 How to reach me: `echo 'bWVAYWxsZW53dTIzMy5jb20K' | base64 --decode`
 
 <!---
