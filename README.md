@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @AllenWu233, a studious learner.
-- 👀 I’m interested in programing and playing video games.
-- 🕹️ Touhou fan && ⛏️ Minecraft lover.
-- 🌱 I’m currently learning computer science, Python, C/C++.
-- 💞️ I’m looking to collaborate on Python projects.
+- Archlinuxer, Python lover.
+- Blog：[blog.allenwu233.com](blog.allenwu233.com)
 - 📫 How to reach me: `echo 'bWVAYWxsZW53dTIzMy5jb20K' | base64 --decode`
 
 <!---
