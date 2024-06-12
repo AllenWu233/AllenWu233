@@ -1,4 +1,4 @@
-- Archlinuxer, Python lover.
+- Archlinuxer, Python and Rust lover.
 - Blog：[https://blog.allenwu233.com](https://blog.allenwu233.com)
 - 📫 How to reach me: `echo 'bWVAYWxsZW53dTIzMy5jb20K' | base64 --decode`
 
