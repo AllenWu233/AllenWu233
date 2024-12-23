@@ -1,6 +1,4 @@
 - Archlinuxer, Python and Rust lover.
-- Blog：[https://blog.allenwu233.com](https://blog.allenwu233.com)
-- 📫 How to reach me: `echo 'd2FsbGVuMjIzM0BnbWFpbC5jb20K' | base64 --decode`
 
 [![AllenWu233's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenWu233&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
