@@ -4,14 +4,15 @@ from base64 import b64decode
 class Me:
     def __init__(self):
         self.name = "Allen Wu"
-        self.born_year = 2004
-        self.undergraduate = "GDUT"
+		self.birth_year = 2004
+		self.education = {
+			"undergrad": ("GDUT", 2022, 2026, "B.Eng. in CS")
+		}
         self.hobbies = ["jogging", "harmonica", "reading", "programming"]
         self.fav_OS = ["Arch Linux", "LineageOS"]
         self.fav_programming_languages = ["Python", "Rust"]
         self.fav_games = ["Touhou", "Minecraft", "Outer Wilds"]
         self.email = b64decode("YWxsZW53dTIzM0BvdXRsb29rLmNvbQ==").decode("utf-8")
-
 ```
 
 - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) enjoyer.
