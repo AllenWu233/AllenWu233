@@ -4,10 +4,6 @@ from base64 import b64decode
 class Me:
     def __init__(self):
         self.name = "Allen Wu"
-        self.birth_year = 2004
-        self.education = {
-            "undergrad": ("GDUT", 2022, 2026, "B.Eng. in CS")
-        }
         self.hobbies = ["jogging", "harmonica", "reading", "programming"]
         self.fav_OS = ["Arch Linux", "LineageOS"]
         self.fav_programming_languages = ["Python", "Rust"]
