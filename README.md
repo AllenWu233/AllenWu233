@@ -13,7 +13,6 @@ class Me:
 
 - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) enjoyer.
 - To live is to try.
-- K.I.S.S.
 
 [![AllenWu233's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllenWu233&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
