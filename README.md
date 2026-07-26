@@ -8,6 +8,7 @@ class Me:
         self.fav_OS = ["Arch Linux", "LineageOS"]
         self.fav_programming_languages = ["Python", "Rust"]
         self.fav_games = ["Touhou", "Minecraft", "Outer Wilds"]
+        self.motto = "天地与我并生，而万物与我为一。"
         self.email = b64decode("YWxsZW53dTIzM0BvdXRsb29rLmNvbQ==").decode("utf-8")
 ```
 
