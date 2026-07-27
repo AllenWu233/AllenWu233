@@ -15,7 +15,9 @@ class Me:
 - [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) enjoyer.
 - To live is to try.
 
-[![AllenWu233's GitHub stats](https://github-stats-extended.vercel.app/api?username=AllenWu233&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats](https://github.com/stats-organization/github-stats-extended)
+[![AllenWu233's GitHub stats](https://github-stats-extended.vercel.app/api?username=AllenWu233&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=AllenWu233&theme=tokyonight&langs_count=6)](https://github.com/stats-organization/github-stats-extended)
 
 <!---
 AllenWu233/AllenWu233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
